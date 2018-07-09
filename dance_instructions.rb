@@ -9,13 +9,16 @@ puts"Left, Right, Left and Left"
 puts "Lower right foot to the ground"
 puts""
 puts""
+puts""
+puts""""
+puts""
 puts
 puts
 puts
 puts
 puts
 puts
-
+puts
 
 
 
