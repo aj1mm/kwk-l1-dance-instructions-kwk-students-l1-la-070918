@@ -10,9 +10,9 @@ puts "Lower right foot to the ground"
 puts""
 puts""
 puts""
-puts""""
+puts""""""
 puts""
-puts
+puts""
 puts
 puts
 puts
